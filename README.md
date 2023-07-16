@@ -18,3 +18,5 @@ python graph.py
 ```
 
 this will open a window showing the density graph
+
+![](HjyM.png)
